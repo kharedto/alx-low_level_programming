@@ -2,13 +2,9 @@
 #include <stdio.h>
 
 /**
-
  *	print_alphabet - check description
-
  *	Description: to print alphabet in lowercase
-
  *	Return: Nothin.
-
  */
 
 void print_alphabet(void)
