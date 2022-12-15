@@ -3,11 +3,11 @@
 
 /**
 
- *print_alphabet - check description
+ *	print_alphabet - check description
 
- *Description: to print alphabet in lowercase
+ *	Description: to print alphabet in lowercase
 
- *Return: Nothin.
+ *	Return: Nothin.
 
  */
 
