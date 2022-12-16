@@ -3,7 +3,7 @@
 /*
 *main - print alphabet in lower case
 *followed by new line
-`*return success always
+*Return: Always 0 (Success)
 */
 
 int main(void)
