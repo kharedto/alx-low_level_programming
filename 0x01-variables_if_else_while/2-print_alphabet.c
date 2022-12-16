@@ -3,13 +3,14 @@
 /*
 *main - print alphabet in lower case
 *followed by new line
-*return success
+`*return success always
 */
 
 int main(void)
 {
 
 	char i;
+
 	for (i = 'a'; i <= 'z'; i++)
 	{
 		putchar(i);
