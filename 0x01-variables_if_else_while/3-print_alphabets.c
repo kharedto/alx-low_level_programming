@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /*
-*main - print upper and lower case character
-*return success
+* main - print upper and lower case character
+* Return: Always 0 (Success)
 */
 
 int main(void)
@@ -10,13 +10,13 @@ int main(void)
 	char ch = 'a';
 	char CH = 'A';
 
-	while(ch <= 'z')
+	while (ch <= 'z')
 	{
 		putchar(ch);
 		ch++;
 	}
 
-	while(CH <= 'Z')
+	while (CH <= 'Z')
 	{
 		putchar(CH);
 		CH++;
