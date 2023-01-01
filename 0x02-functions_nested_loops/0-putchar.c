@@ -1,12 +1,9 @@
 #include "main.h"
 #include <stdio.h>
 
-/*
-
- *main - Entry point
-
+/**
+ *main - print _putchar and a new line
  *Return: Always 0 (Success)
-
  */
 
 int main(void)
