@@ -1,9 +1,9 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-/*
-*main - print alpabet in lower case witout q and e
-*Return: Always 0 (Success)
+/**
+* main - print alpabet in lower case witout q and e
+* Return: Always 0 (Success)
 */
 
 int main(void)
