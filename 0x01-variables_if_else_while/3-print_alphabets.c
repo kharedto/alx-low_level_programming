@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
 * main - print upper and lower case character
 * Return: Always 0 (Success)
 */
