@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-/*
-*this program use ANSCI notation for the putchar benefit
+/**
  * main - prints all possible combinations of single-digit numbers
+ * uses ANSIC
  * Return: Always 0 (Success)
  */
 
