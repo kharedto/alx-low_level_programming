@@ -2,10 +2,11 @@
 #include <stdio.h>
 #include <time.h>
 
-/*
-*main - main function to generate a random number
-*Return: Always 0 (Success)
-*/
+/**
+ * main - prints the last digit of the random
+ * number stored in the variable n
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 
