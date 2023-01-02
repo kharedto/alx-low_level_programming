@@ -1,26 +1,19 @@
 #include "main.h"
 
-/*
-
- *print_alphabet_x10 - check Description
-
- *Description: Print the alphabet 10 times
-
- *Return: Nothing.
-
+/**
+ *print_alphabet_x10 - Print the alphabet 10 times
  */
-
-
 
 void print_alphabet_x10(void)
 
 {
-	char j;
-	int i;
-	for (i = 0; i < 10; i++)
+	char x;
+	int y;
+
+	for (y = 0; y < 10; y++)
 	{
-		for (j = 'a'; j <= 'z'; j++)
-			_putchar(j);
+		for (x = 'a'; x <= 'z'; x++)
+			_putchar(y);
 		_putchar('\n');
 	}
 }
